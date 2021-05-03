@@ -1,7 +1,8 @@
 # dl_project <br>
 
-Usage:
-Run 
+Usage:  <br>
+Run music_rnn.py to generate music. The generated sequence is saved in generated_music.txt, the processed sequence (fine music) is saved in generated_fine_music.txt. <br>
+Training results are saved in Music RNN Training Results.png. <br>
 
 
 
