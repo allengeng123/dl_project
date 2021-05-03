@@ -1,5 +1,10 @@
 # dl_project <br>
 
+Usage:
+Run 
+
+
+
 Requirements:<br>
 Keras                              2.3.1 <br>
 tensorflow                         2.4.1 <br>
