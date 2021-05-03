@@ -1,6 +1,12 @@
 # dl_project <br>
 
 
+Dataset: <br>
+The ABC version of the Nottingham Music Database. <br>
+Link: http://abc.sourceforge.net/NMD/ <br>
+
+
+
 Requirements:<br>
 Keras                              2.3.1 <br>
 tensorflow                         2.4.1 <br>
