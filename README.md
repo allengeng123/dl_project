@@ -19,7 +19,7 @@ Usage:  <br>
 Run music_rnn.py to generate music. <br>
 Training results are saved in Music RNN Training Results.png. <br>
 The weight of trained model is saved in model.h5. <br>
-The generated sequence is saved in generated_music.txt, the processed sequence (fine music) is saved in generated_fine_music.txt. <br>
+The generated sequence (raw music) is saved in generated_music.txt, the processed sequence (fine music) is saved in generated_fine_music.txt. <br>
 
 Reference: <br>
 https://medium.datadriveninvestor.com/music-generation-using-deep-learning-85010fb982e2
